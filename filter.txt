@@ -1,0 +1,4 @@
+!
+! Title: AdGuard DNS filter
+!
+||pull-f5-va01.fcdn.eu.tiktokcdn.com^
