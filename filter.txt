@@ -1,6 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 !
+||@.tiktokcdn.com^
 ||pull-f5-va01.fcdn.eu.tiktokcdn.com^
 ||pull-flv-l77-va01.tiktokcdn.com^
 ||pull-flv-l77-va01.tiktokcdn.com^
