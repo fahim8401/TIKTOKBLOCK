@@ -15,3 +15,9 @@
 ||pull-w5-va01.fcdn.eu.tiktokcdn.com^
 ||pull-w5-sg01.fcdn.eu.tiktokcdn.com^
 ||pull-w5-va01.tiktokcdn.com^
+||push-rtmp-f5-sg01.tiktokcdn.com^
+||pull-flv-f77-va01.tiktokcdn.com^
+||sf77-sg.tiktokcdn.com^
+||pull-w5-va01.tiktokcdn.com^
+||pull-w5-va01.tiktokcdn.com^
+||pull-w5-va01.tiktokcdn.com^
